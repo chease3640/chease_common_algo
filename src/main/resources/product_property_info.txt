@@ -1,0 +1,3 @@
+leaf_cid	property_name	property_value_names
+1234	功能	可折叠,语音识别
+1234	安装方式	磁吸,重力支撑,吸盘
